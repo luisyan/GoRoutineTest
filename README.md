@@ -1,8 +1,5 @@
 # GoRoutineTest
-with dispatcher:
-round 1 round 2 round 3 round 4 round 5 round 6 round 7 round 8 round 9 round 10 
-without dispatcher:
-round 1 round 2 round 3 round 4 round 5 round 6 round 7 round 8 round 9 round 10 
+10 rounds, for i:=1;i<= 100\*10000;i*=10
 
 Averages:
 
